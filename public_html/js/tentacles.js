@@ -205,7 +205,7 @@ var tentacles = [];
 var center = { x:0, y:0 };
 
 
-tentacleInit = function() {
+var tentacleInit = function() {
 
   var sketch = Sketch.create({
 
